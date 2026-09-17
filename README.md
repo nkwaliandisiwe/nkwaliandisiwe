@@ -104,6 +104,11 @@ One of the biggest lessons from AWS:
 Originally from the Eastern Cape, having lived and worked in Johannesburg and Cape Town, I've developed strong adaptability, curiosity, resilience, and a passion for continuous growth.
 
 ---
+## 📜 Certifications
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Security, Compliance and Identity Fundamentals
 
 ### Let's Connect
 
