@@ -2,7 +2,7 @@
 
 ## Cloud | Data | DevOps Engineer
 
-Former AWS Cloud Support Engineer with experience supporting enterprise cloud environments across infrastructure, networking, security, databases, container platforms, observability, and Infrastructure as Code.
+ AWS Cloud Support Engineer with experience supporting enterprise cloud environments across infrastructure, networking, security, databases, container platforms, observability, and Infrastructure as Code.
 
 Passionate about building scalable cloud platforms, automating operations, engineering data solutions, and implementing DevOps best practices.
 
@@ -10,7 +10,7 @@ Passionate about building scalable cloud platforms, automating operations, engin
 
 ## 🚀 About Me
 
-- ☁️ Former AWS Cloud Support Engineer
+- ☁️ AWS Cloud Support Engineer
 - 🏗️ Cloud Infrastructure & Platform Enthusiast
 - 📊 Interested in Data Engineering & Analytics Platforms
 - ⚙️ DevOps and Automation Advocate
@@ -106,7 +106,7 @@ Originally from the Eastern Cape, having lived and worked in Johannesburg and Ca
 ---
 ## 📜 Certifications
 - AWS Certified Solutions Architect – Associate
-- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft Security, Compliance and Identity Fundamentals
 
